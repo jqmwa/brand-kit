@@ -2,3 +2,5 @@
 
 # Mental Wealth Academy brand-kit
 This repo contains brand and editorial style guides for MWA.
+
+Mental Wealth Academy is a research-driven educational organization focused on improving cyber-psychology, and pragmatic governance systems using blockchain technology.
