@@ -1,4 +1,4 @@
-<img width="1536" height="769" alt="brandbook" src="https://github.com/user-attachments/assets/b57b4ead-77d6-4ccc-94e8-09d55485612c" />
+![logo](https://github.com/user-attachments/assets/8e48a7b9-5fcf-49f1-94ab-f269e8a0181e)
 
 # Mental Wealth Academy brand-kit
 This repo contains brand and editorial style guides for MWA.
